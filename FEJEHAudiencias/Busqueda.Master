@@ -1,0 +1,167 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Busqueda.master.cs" Inherits="FEJEHAudiencias.Busqueda" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css">
+    <link href="css/busqueda.css" rel="stylesheet" />
+        <link href="css/login.css" rel="stylesheet" />
+    <link href="css/videos.css" rel="stylesheet" />
+        <link href="css/administrador.css" rel="stylesheet" />
+     <!-- boostrap -->
+      <script src="Scripts/JQuery/jquery.min.js" type="text/javascript"></script>
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link href="assets/vendor/ionicons/css/ionicons.min.css" rel="stylesheet">
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+</head>
+<body class="degradado">
+          <!-- inicio header -->
+<nav class="navbar navbar-expand-lg ">
+        <div class="container-fluid">
+            <div class="row justify-content-start align-items-center">
+                <div class="col-auto">
+                    <a class="navbar-brand" href="#">
+                        <img src="assets/logoaudiencias.png" class="LogoAudiencia img-fluid" />
+                    </a>
+                    <a href="magistrado.aspx" class="aMagistrados">Menú Magistrados </a> &nbsp;&nbsp;&nbsp;
+                </div>
+
+            </div>
+            <div class="d-flex align-items-center">
+                
+                <div class="dropdown">
+                    <a class="dropdown-toggle d-flex align-items-center hidden-arrow" href="#" id="navbarDropdownMenuAvatar"
+                       role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <img src="assets/perfil.png" class="rounded-circle " height="40"
+                             alt="imagen de perfil" loading="lazy" />
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownMenuAvatar">
+                        <li>
+                            <a class="dropdown-item perfilOpciones" href="#" data-bs-toggle="modal" data-bs-target="#modalUsuario">perfil</a>
+                        </li>
+                        <li>
+                           <a class="dropdown-item perfilOpciones" href="javascript:void(0)" onclick="cerrarSesion();">cerrar sesión</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+    </nav>
+ <!-- final Header-->
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+    </form>
+    <!-- inicio footer-->
+    <footer class="footer__box" style="padding:1.5rem; box-shadow: -3px -4px 15px -1px rgba(0,0,0,0.34); background-image: linear-gradient(to left bottom, #1d1c1c, #282727, #343333, #403f3f, #4c4b4b);">
+        <div class=" d-flex flex-wrap justify-content-around  align-items-center">
+            <div class=" col-lg-auto col-12 text-center ">
+                <i class="bi bi-geo-alt-fill socialMedia-icon  text-white" style="font-weight:bold;"></i>
+                <h5  style="font-weight:bold;" class="font-weight-bold text-white ">Ubicacion</h5>
+                <a href="https://goo.gl/maps/vZxaA7wkFTyqFNcU9" target="_blank" class="text-decoration-none ">
+                    <p class="text-white">Kilómetro 84.5, Carretera México Pachuca </p>
+                </a>
+            </div>
+            <div class=" col-lg-auto col-10 text-center">
+                <i class="bi bi-telephone-fill socialMedia-icon text-white " style="font-weight:bold;"></i>
+                <h5 style="font-weight:bold;" class="font-weight-bold text-white">Teléfono</h5>
+                <p class="font-weight-bold text-white">(771) 71-7-90-00</p>
+            </div>
+            <div class="socialMedia-media col-lg-auto col-12 text-center">
+                <a href="https://www.facebook.com/PoderJudicialHidalgo" target="_blank"><i class="bi bi-facebook text-white "></i></a>
+                <a href="https://twitter.com/PJEHidalgo" target="_blank"><i class="bi bi-twitter text-white "></i></a>
+                <a href="https://www.youtube.com/channel/UC8OUr4Kax8UKXcvVJ_YeoQw" target="_blank"><i class="bi bi-youtube text-white "></i></a>
+
+            </div>
+        </div>
+    </footer>
+<!-- final footer-->
+    <!-- inicio modal -->
+    
+    <div class="modal fade modal-redondo" id="modalUsuario" OnClientShow="mostrarDatosUsuario()" tabindex="-1" role="dialog" aria-labelledby="modalUsuariolLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalUsuarioLabel">Informacion del Usuario</h5>
+                </div>
+                <div class="modal-body">
+                    <div class="row modalDivCentrado">
+                        <div class="col">
+                            <img src="assets/perfil.png" class="rounded-circle" style="margin-bottom:5%;" height="100" alt="imagen de perfil" loading="lazy" />
+                        </div>
+                        <div class="col">
+                            <div class="row">
+                                <div class="col fontStyleModal">
+                                    <asp:Label ID="nombreUsuarioS" runat="server" Text=""></asp:Label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <b>Cargo:</b>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="linea-separadora"></div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col modalDivCentrado" >
+                                <b>Nombre:</b>
+                            </div>
+                            <div class="col modalDivCentrado fontStyleModal" style="text-transform:capitalize !important;">
+                               <asp:Label ID="distrito" runat="server" Text=""></asp:Label>
+                            </div>                          
+                         </div>                             
+                        <div class="row">                   
+                            <div class="col modalDivCentrado">
+                                <b>CURP:</b>    
+                            </div>                          
+                            <div class="col modalDivCentrado fontStyleModal">
+                                <asp:Label ID="cargo" runat="server" Text=""></asp:Label>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col modalDivCentrado">
+                                <b>Correo:</b>
+                            </div>
+                            <div class="col modalDivCentrado fontStyleModal" style="text-transform:lowercase;">
+                                <asp:Label ID="curpUsuario" runat="server" Text=""></asp:Label>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<!-- final modal -->
+</body>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://cdn.datatables.net/select/1.6.2/js/dataTables.select.min.js"></script>
+<script src="Scripts/jsViews/auth.js"></script>
+<script src="Scripts/jsViews/filtros.js"></script>
+<script src="Scripts/bootstrap.min.js"></script>
+<script src="Scripts/jsViews/buscar.js"></script>
+<script src="Scripts/jsViews/videos.js"></script>
+<script src="Scripts/Firma/FirmaLogin.js"></script>
+</html>

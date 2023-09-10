@@ -1,0 +1,603 @@
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\braya\source\repos\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\20111\Pictures\back\FEJEHAudiencias-back\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.SqlServer.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Owin.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.SqlServer.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.SqlServer.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Owin.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\EntityFramework.SqlServer.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\20111\source\repos\FEJH-AudienciasFrontEnd-main conexio-login\FEJH-AudienciasFrontEnd-main\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.SqlServer.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Owin.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.SqlServer.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\braya\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.SqlServer.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Owin.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\EntityFramework.SqlServer.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\20111\source\repos\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\EntityFramework.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\EntityFramework.SqlServer.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Owin.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\EntityFramework.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\EntityFramework.SqlServer.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\usuario\Desktop\SIAGA\8C_11 Desarrollo de Sistemas\VS2019\Seguridad\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\FEJEHAudiencias.dll.config
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\FEJEHAudiencias.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\FEJEHAudiencias.pdb
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csc.exe
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csc.exe.config
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csc.rsp
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csi.exe
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\csi.rsp
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.AppContext.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\vbc.exe
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\vbc.exe.config
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\vbc.rsp
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Antlr3.Runtime.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\EntityFramework.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\EntityFramework.SqlServer.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Security.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Newtonsoft.Json.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Owin.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\System.Web.Optimization.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\WebGrease.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\EntityFramework.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\EntityFramework.SqlServer.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Security.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\System.Web.Optimization.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Newtonsoft.Json.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Antlr3.Runtime.pdb
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\es\System.Web.Optimization.resources.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.AssemblyReference.cache
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CoreCompileInputs.cache
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.csproj.CopyComplete
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.dll
+C:\Users\braya\source\repos\FEJEHAudiencias\FEJEHAudiencias\obj\Debug\FEJEHAudiencias.pdb

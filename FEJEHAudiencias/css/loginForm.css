@@ -1,0 +1,609 @@
+﻿
+.dropBG {
+    margin: 50px 0px 0px 15px;
+}
+
+#name-file-2, #name-file {
+    color: green;
+    font-size: 10px;
+    padding: 0;
+}
+
+
+
+.dropBG {
+    /* border en zig zag color y border */
+    background-color: var(--color-4th);
+    max-width: 22rem;
+    padding: .5rem;
+    border: 1px dashed var(--color-4th);
+    margin: 30px 10px;
+    display: inline-block;
+    position:  relative;
+}
+
+    .dropBG.hvring {
+        background-color: #f0d89c;
+    }
+
+    .dropBG .tileGrp.dragBorder {
+        /* color de relleno dentro de los cards */
+        background-color: #F9F5F6;
+        border: none;
+        display: block;
+        margin: 0 auto;
+        height: auto;
+        position: relative;
+        color: #454547;
+        cursor: default !important;
+        width: 180px;
+        text-align: center;
+    }
+
+        .dropBG .tileGrp.dragBorder:before {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            border-width: 0 16px 16px 0;
+            border-style: solid;
+            border-color: greenyellow #ebebeb #fafafa #fafafa;
+            background: #fff;
+            -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
+            -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3), -1px 1px 1px rgba(0, 0, 0, 0.2);
+            /* Todo esto es del cuadrito de la esquina doblada */
+            display: block;
+            width: 0;
+        }
+
+        .dropBG .tileGrp.dragBorder .loaderTopWrap {
+            display: none;
+            text-align: center;
+            position: absolute;
+            z-index: 1000;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+            background-color: orangered;
+        }
+
+        .dropBG .tileGrp.dragBorder .upldCnfrmd {
+            font-size: 3em;
+            color: #fff;
+            display: none;
+            max-width: 180px;
+            line-height: 1.3;
+            text-align: center;
+            position: absolute;
+            top: 50px;
+            width: 180px;
+            z-index: 1001;
+        }
+
+        .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select {
+            bottom: 0;
+            left: 0;
+            margin: initial;
+            height: auto;
+            overflow: hidden;
+            position: relative;
+            height: auto;
+            cursor: default !important;
+            width: 180px;
+        }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select input[type="file"] {
+                position: absolute;
+                left: 0;
+                width: 100%;
+                bottom: 0;
+                top: 0;
+                cursor: pointer;
+                display: block;
+                opacity: 0;
+                z-index: 15;
+            }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select h4.uploadTitle {
+                /* Letra titulo derecho */
+                position: relative;
+                z-index: 2;
+                margin-top: 17px;
+                padding: 0 19px;
+                font-weight: 700;
+                font-size: 16px;
+                color: #666;
+                margin-bottom: 14px;
+            }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select p.oneLine {
+                margin-top: 24px;
+                color: #8e8e8e;
+                font-family: inherit;
+                font-size: 0.875rem;
+                font-weight: 300;
+                line-height: 1.6;
+                margin-bottom: 0;
+            }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select div.dragText {
+                position: relative;
+                z-index: 2;
+                font-size: 14px;
+                min-width: 100px;
+                color: #ddd;
+                line-height: 1.5;
+                margin: 13px 0 17px;
+            }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select .button.secondary {
+                /* Border del boton */
+                padding: 0;
+                margin: 0;
+                margin-bottom: 1.5rem;
+                height: 32px;
+                border: solid 1px var(--color-4th);
+                /* fondo del boton */
+                background-color: #fff;
+                color: #666;
+            }
+
+                .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select .button.secondary .upload {
+                    font-size: 15px;
+                    padding: 3px 20px 3px 20px;
+                    /*color de letras del boton derecho*/
+                    color: #666;
+                    font-weight: 300;
+                    margin: 0;
+                    width: 100%;
+                    cursor: pointer !important;
+                }
+
+                .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select .button.secondary:hover {
+                    background-color: #3983c5;
+                    color: #fff;
+                }
+
+                    .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select .button.secondary:hover .upload {
+                        color: #fff;
+                    }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content form.image-select:hover .image-select__icon {
+                transform: scale(0.5, 0.5);
+            }
+
+        .dropBG .tileGrp.dragBorder .tileGrp-content .file-hover {
+            position: relative;
+        }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content .file-hover:before {
+                position: absolute;
+                left: 0;
+                width: 100%;
+                bottom: 0;
+                top: 0;
+                background-color: rgba(0, 0, 0, 0.5);
+                content: "";
+                display: block;
+                z-index: 30;
+            }
+
+            .dropBG .tileGrp.dragBorder .tileGrp-content .file-hover:after {
+                font-family: FontAwesome;
+                animation: 1.5s boing infinite;
+                color: #fff;
+                content: "";
+                font-size: 5em;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                margin: -0.5em 0 0 -0.5em;
+                z-index: 35;
+            }
+
+@keyframes boing {
+    transition: all .3s ease-in-out; 0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(25%);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.dropBG .tileGrp.dragBorder #loader-1 span {
+    background: #fff;
+}
+
+.dropBG .dwnldText {
+    cursor: pointer;
+    font-size: 0.65rem;
+    left: 1.65rem;
+    margin-top: 0.45rem;
+    position: absolute;
+}
+
+    .dropBG .dwnldText a {
+        color: #666;
+    }
+
+        .dropBG .dwnldText a i {
+            font-size: 1rem;
+            margin-right: 0.2rem;
+        }
+
+        .dropBG .dwnldText a:hover {
+            color: #2a6b96;
+        }
+
+.upload.dropBG {
+    top: -35px;
+    border: 2px solid #ddd;
+}
+
+    .upload.dropBG .button.edit {
+        padding: 0;
+        margin: 0;
+        margin-bottom: 1.5rem;
+        height: 32px;
+        border: solid 1px #75c83c;
+        background-color: #fff;
+        color: #75c83c;
+    }
+
+        .upload.dropBG .button.edit .editButton {
+            font-size: 15px;
+            padding: 3px 20px 3px 20px;
+            color: #75c83c;
+            font-weight: 300;
+            margin: 0;
+            width: 100%;
+            cursor: pointer !important;
+        }
+
+        .upload.dropBG .button.edit:hover {
+            background-color: #75c83c;
+            color: #ffffff;
+        }
+
+            .upload.dropBG .button.edit:hover .editButton {
+                color: #fff;
+            }
+
+    .upload.dropBG .button.edit {
+        margin-top: 105px;
+    }
+
+.editButton {
+    font-size: 15px;
+    padding: 3px 20px 3px 20px;
+    font-weight: 300;
+    margin: 0;
+    width: 100%;
+    cursor: pointer !important;
+}
+
+.upload.dropBG.save {
+    top: -35px;
+}
+
+    .upload.dropBG.save .button.edit.save {
+    }
+
+    .upload.dropBG.save form {
+        max-width: 90%;
+        padding-left: 20px;
+    }
+
+.fa.fa-trash {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    border: 2px solid #f8f9f9;
+    color: #ED5565;
+    transition: .3s;
+}
+
+    .fa.fa-trash:hover {
+        background-color: #ED5565;
+        color: #ffffff;
+    }
+/*======================================/
+ANIMATED DOTS LOADER
+/=======================================*/
+.loaderTopWrap .loader-dots span {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    background: #fff;
+    border-radius: 0px;
+    position: relative;
+    top: 60px;
+}
+
+.loaderTopWrap .border-radius {
+    border-radius: 500px;
+}
+
+.loaderTopWrap *[class*="loader-"] {
+    margin-bottom: 30px;
+}
+
+.loaderTopWrap .loader-dots span:nth-child(1) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.1s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.1s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(2) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.2s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.2s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(3) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.3s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.3s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(4) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.4s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.4s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(5) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.5s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.5s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(6) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.6s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.6s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(7) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.7s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.7s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(8) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.8s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.8s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(9) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 0.9s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 0.9s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+.loaderTopWrap .loader-dots span:nth-child(10) {
+    border-radius: 500px;
+    -webkit-animation: scale 1s 1s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+    animation: scale 1s 1s infinite cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
+
+@-webkit-keyframes scale {
+    0% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+
+    25% {
+        -webkit-transform: scale(0.9, 0.9);
+        transform: scale(0.9, 0.9);
+        background: #ebebeb;
+    }
+
+    50% {
+        -webkit-transform: scale(1, 1);
+        transform: scale(1, 1);
+        margin: 0 3px;
+        background: #FFFFFF;
+    }
+
+    100% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+}
+
+@keyframes scale {
+    0% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+
+    25% {
+        -webkit-transform: scale(0.9, 0.9);
+        transform: scale(0.9, 0.9);
+        background: #ebebeb;
+    }
+
+    50% {
+        -webkit-transform: scale(1, 1);
+        transform: scale(1, 1);
+        margin: 0 3px;
+        background: #FFFFFF;
+    }
+
+    100% {
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+}
+
+.from-styles {
+    background-color: red;
+    filter: grayscale(100%);
+    height: 200px;
+}
+
+
+.box-drop {
+    padding: 15px 10px;
+}
+
+.btn-color {
+    background-color: red;
+    padding: 5px 20px;
+    margin: auto;
+    border: #5592c9 .5px solid;
+    background: transparent;
+    font-size: 15px;
+    color: #5592c9;
+}
+/*Drag and drop certificate */
+.dragBG {
+    padding: 10px;
+    height: auto;
+    font-size: 10px;
+}
+
+
+    .dragBG div {
+        padding-bottom: 5px;
+    }
+
+    .dragBG .uploadTitle {
+        font-size: 17px;
+        font-weight: bold;
+        color: #737272;
+    }
+
+    .dragBG .tileGrp-content {
+        padding: 15px 0;
+    }
+
+    .dragBG .oneLine {
+        font-size: 13px;
+        margin-top: 15px;
+        color: #9c9c9c;
+        font-weight: 200;
+    }
+
+    .dragBG .dragText {
+        color: #c1c1c169;
+        font-weight: bold;
+        font-size: 14.5px;
+        word-spacing: 2px;
+    }
+
+    .dragBG label {
+        /*Color del boton izquiero*/
+        font-size: 15px;
+        color: #666;
+        outline: 1px solid var(--color-4th);
+        padding: 4px 15px;
+        width: 100%;
+        font-weight: 100;
+    }
+
+        .dragBG label:hover {
+            background-color: #3983c5;
+            color: #fff;
+        }
+
+        .dragBG div, .dragBG label:hover {
+            cursor: pointer;
+        }
+
+
+.form-outline .input {
+    max-width: 190px;
+    color: #242424;
+    padding: .15rem .5rem;
+    min-height: 40px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    line-height: 1.15;
+}
+
+.form-outline input:focus {
+}
+
+form-outline input:hover {
+    outline: 1px solid lightgrey;
+}
+/*este es el del textbox asp*/
+.form-control {
+    position: relative;
+    margin: 0 0 30px;
+    box-sizing: border-box;
+    height: 40px;
+    background-color: transparent !important;
+    border: none !important;
+    color:black !important;
+}
+    .form-control::placeholder {
+        color: darkseagreen;
+        font-weight:600;
+    }
+    .form-control i {
+        position: absolute;
+        color: var(--color-2nd);
+        font-weight: bold;
+        font-size: 18px;
+        top: 10px;
+        right: 99%;
+    }
+
+    .form-control input{
+        border: 0 ;
+        border-bottom: 2px var(--color-4th) solid !important;
+        display: block;
+        width: 100%;
+        padding: 5px 0;
+        font-size: 18px;
+        color: rgba(0, 0, 0, 0.5);
+        background-color: transparent;
+    }
+
+
+
+.md-img {
+    text-align: center;
+}
+
+@media (max-width: 550px) {
+    body {
+    }
+
+    .md-img {
+        margin-bottom: 30px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .container-elements {
+        flex-direction: row-reverse;
+        flex-wrap: wrap;
+        justify-content: center
+    }
+
+    .container-elements-login {
+        flex-direction: column-reverse;
+    }
+}
+
+
+/*modal login tecnico multimedia*/
+.inputloginTecnicoMulti {
+    border: .6px solid #d1d0d0 !important;
+    
+}
+    

@@ -1,0 +1,75 @@
+﻿.aMagistrados{
+    color:white;
+}
+.spanXMagistrado{
+    font-size: 100%! important;
+}
+.BotonBusqueda {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 100% !important;
+    margin-top: 5% !important;
+}
+
+.SelectoresBusqueda {
+    background-color: #737d6f;
+    color: white;
+}
+
+.DivLoaderBusqueda {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.loader {
+    display: block;
+    --height-of-loader: 4px;
+    --loader-color: #0071e2;
+    width: 100%;
+    height: var(--height-of-loader);
+    border-radius: 30px;
+    background-color: #737d6f;
+    position: relative;
+}
+
+    .loader::before {
+        content: "";
+        position: absolute;
+        background: #c2b77f;
+        top: 0;
+        left: 0;
+        width: 0%;
+        height: 100%;
+        border-radius: 30px;
+        animation: moving 1s ease-in-out infinite;
+        ;
+    }
+
+@keyframes moving {
+    50% {
+        width: 100%;
+    }
+
+    100% {
+        width: 0;
+        right: 0;
+        left: unset;
+    }
+}
+/* Cambiar el color del selector cuando se selecciona una fila */
+tr.selected {
+    background-color: red !important; /* Cambia el color de fondo a verde (#00FF00) */
+}
+
+    /* Cambiar el color del texto del selector cuando se selecciona una fila */
+    tr.selected td {
+        background: #b0bed9 !important;
+    }
+
+.busquedaTabla {
+    display:  none !important;
+}
+.fontStyleModal {
+    text-transform: capitalize;
+}

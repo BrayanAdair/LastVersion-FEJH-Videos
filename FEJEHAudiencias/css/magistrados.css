@@ -1,0 +1,25 @@
+﻿.divCentrado {
+    display: flex !important;
+    justify-content: center !important;
+}
+.vincularBtn {
+    width: 40% !important;
+    background-color: #78a898;
+    color: white;
+    font-weight: 900;
+    border: white solid;
+    border-radius: 10px;
+    padding:4px;
+}
+.vincularBtn2 {
+    width: 100% !important;
+    background-color: #78a898;
+    color: white;
+    font-weight: 900;
+    border: white solid;
+    border-radius: 10px;
+    padding: 4px;
+}
+.inputBuscar {
+    border: solid 2px #78a898;
+}
